@@ -5,11 +5,7 @@ JDK - Java™ Platform, Standard Edition Development Kit
 
 Spring Boot - Framework to ease the bootstrapping and development of new Spring Applications
 
-OracleDB - OracleDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need
-Tables :msp_sample_jobs---SampleJob  data 
-        idt_status_codes-- status Codes which are assigned to sample jobs
-        idt_surveys-- Survey information
-        
+OracleDB - OracleDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need       
 
 Lombok - Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
 
