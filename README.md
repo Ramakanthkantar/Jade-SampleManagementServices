@@ -20,8 +20,11 @@ JDK 11
 Maven 4
 
 Oracle Tables Information
+
 idt_surveys---All the survey information 
+
 msp_sample_jobs-- SampleJob Data information
+
 idt_status_codes-- status codes which are assing to each sample job.
 
 
